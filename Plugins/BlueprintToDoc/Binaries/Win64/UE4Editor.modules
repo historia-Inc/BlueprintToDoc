@@ -1,0 +1,8 @@
+{
+	"BuildId": "4541578",
+	"Modules": 
+	{
+		"BlueprintToDoc": "UE4Editor-BlueprintToDoc.dll",
+		"BlueprintToDocEditor": "UE4Editor-BlueprintToDocEditor.dll"
+	}
+}
