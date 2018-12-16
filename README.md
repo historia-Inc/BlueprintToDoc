@@ -1,4 +1,5 @@
 # BlueprintToDoc
+ブループリントをドキュメント化するプラグインです。  
 ## プラグインの追加
 PluginsフォルダにあるBlueprintToDocを任意のPluginsフォルダにコピーして下さい。  
 エディタ起動後にBlueprintToDocのボタンが追加されていること確認して下さい。  
